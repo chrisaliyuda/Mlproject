@@ -24,3 +24,8 @@ mkdir -p $PYTHON_SITE
 cat >> $PYTHON_SITE/$PROJECT_NAME.pth <<EOF
 $PWD/src
 EOF
+
+
+
+
+
